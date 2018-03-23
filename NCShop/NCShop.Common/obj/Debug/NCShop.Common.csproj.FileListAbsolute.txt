@@ -1,0 +1,6 @@
+D:\C#\NCShop\NCShop\NCShop.Common\bin\Debug\NCShop.Common.dll
+D:\C#\NCShop\NCShop\NCShop.Common\bin\Debug\NCShop.Common.pdb
+D:\C#\NCShop\NCShop\NCShop.Common\obj\Debug\NCShop.Common.csprojResolveAssemblyReference.cache
+D:\C#\NCShop\NCShop\NCShop.Common\obj\Debug\NCShop.Common.csproj.CoreCompileInputs.cache
+D:\C#\NCShop\NCShop\NCShop.Common\obj\Debug\NCShop.Common.dll
+D:\C#\NCShop\NCShop\NCShop.Common\obj\Debug\NCShop.Common.pdb

@@ -1,0 +1,12 @@
+D:\C#\NCShop\NCShop\NCShop.Model\bin\Debug\NCShop.Model.dll.config
+D:\C#\NCShop\NCShop\NCShop.Model\bin\Debug\NCShop.Model.dll
+D:\C#\NCShop\NCShop\NCShop.Model\bin\Debug\NCShop.Model.pdb
+D:\C#\NCShop\NCShop\NCShop.Model\bin\Debug\EntityFramework.dll
+D:\C#\NCShop\NCShop\NCShop.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\NCShop\NCShop\NCShop.Model\bin\Debug\EntityFramework.xml
+D:\C#\NCShop\NCShop\NCShop.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\NCShop\NCShop\NCShop.Model\obj\Debug\NCShop.Model.csprojResolveAssemblyReference.cache
+D:\C#\NCShop\NCShop\NCShop.Model\obj\Debug\NCShop.Model.csproj.CoreCompileInputs.cache
+D:\C#\NCShop\NCShop\NCShop.Model\obj\Debug\NCShop.Model.csproj.CopyComplete
+D:\C#\NCShop\NCShop\NCShop.Model\obj\Debug\NCShop.Model.dll
+D:\C#\NCShop\NCShop\NCShop.Model\obj\Debug\NCShop.Model.pdb

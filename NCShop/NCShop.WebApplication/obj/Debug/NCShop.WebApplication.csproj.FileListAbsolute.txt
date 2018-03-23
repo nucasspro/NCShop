@@ -95,3 +95,17 @@ D:\C#\NCShop\NCShop\NCShop.WebApplication\obj\Debug\NCShop.WebApplication.csproj
 D:\C#\NCShop\NCShop\NCShop.WebApplication\obj\Debug\NCShop.WebApplication.csproj.CopyComplete
 D:\C#\NCShop\NCShop\NCShop.WebApplication\obj\Debug\NCShop.WebApplication.dll
 D:\C#\NCShop\NCShop\NCShop.WebApplication\obj\Debug\NCShop.WebApplication.pdb
+D:\C#\NCShop\NCShop\NCShop.WebApplication\bin\EntityFramework.dll
+D:\C#\NCShop\NCShop\NCShop.WebApplication\bin\EntityFramework.SqlServer.dll
+D:\C#\NCShop\NCShop\NCShop.WebApplication\bin\NCShop.Common.dll
+D:\C#\NCShop\NCShop\NCShop.WebApplication\bin\NCShop.Data.dll
+D:\C#\NCShop\NCShop\NCShop.WebApplication\bin\NCShop.Model.dll
+D:\C#\NCShop\NCShop\NCShop.WebApplication\bin\NCShop.Service.dll
+D:\C#\NCShop\NCShop\NCShop.WebApplication\bin\NCShop.Common.pdb
+D:\C#\NCShop\NCShop\NCShop.WebApplication\bin\NCShop.Data.pdb
+D:\C#\NCShop\NCShop\NCShop.WebApplication\bin\NCShop.Data.dll.config
+D:\C#\NCShop\NCShop\NCShop.WebApplication\bin\NCShop.Model.pdb
+D:\C#\NCShop\NCShop\NCShop.WebApplication\bin\NCShop.Model.dll.config
+D:\C#\NCShop\NCShop\NCShop.WebApplication\bin\NCShop.Service.pdb
+D:\C#\NCShop\NCShop\NCShop.WebApplication\bin\EntityFramework.xml
+D:\C#\NCShop\NCShop\NCShop.WebApplication\bin\EntityFramework.SqlServer.xml
