@@ -7,17 +7,18 @@ namespace NCShop.Model.Models
     public class ProductTag
     {
         [Key]
-        public int ProductID { get; set; }
+        [Column(Order = 1)]
+        public int ProductID { set; get; }
 
         [Key]
+        [Column(TypeName = "varchar", Order = 2)]
         [MaxLength(50)]
-        [Column(TypeName = "varchar")]
-        public string TagID { get; set; }
+        public string TagID { set; get; }
 
         [ForeignKey("ProductID")]
-        public virtual Product Product { get; set; }
+        public virtual Product Product { set; get; }
 
         [ForeignKey("TagID")]
-        public virtual Tag Tag { get; set; }
+        public virtual Tag Tag { set; get; }
     }
 }

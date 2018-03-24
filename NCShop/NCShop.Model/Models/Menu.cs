@@ -8,27 +8,27 @@ namespace NCShop.Model.Models
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int ID { get; set; }
+        public int ID { set; get; }
 
         [Required]
         [MaxLength(50)]
-        public string Name { get; set; }
+        public string Name { set; get; }
 
         [Required]
         [MaxLength(256)]
-        public string URL { get; set; }
+        public string URL { set; get; }
 
-        public int? DisplayOrder { get; set; }
+        public int? DisplayOrder { set; get; }
 
         [Required]
-        public int GroupID { get; set; }
+        public int GroupID { set; get; }
 
         [ForeignKey("GroupID")]
-        public virtual MenuGroup MenuGroup { get; set; }
+        public virtual MenuGroup MenuGroup { set; get; }
 
         [MaxLength(10)]
-        public string Targer { get; set; }
+        public string Target { set; get; }
 
-        public bool Status { get; set; }
+        public bool Status { set; get; }
     }
 }

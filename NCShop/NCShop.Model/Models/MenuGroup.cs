@@ -9,12 +9,12 @@ namespace NCShop.Model.Models
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int ID { get; set; }
+        public int ID { set; get; }
 
         [Required]
         [MaxLength(50)]
-        public string Name { get; set; }
+        public string Name { set; get; }
 
-        public virtual IEnumerable<Menu> Menus { get; set; }
+        public virtual IEnumerable<Menu> Menus { set; get; }
     }
 }

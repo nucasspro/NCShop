@@ -15,3 +15,5 @@ D:\C#\NCShop\NCShop\NCShop.Data\obj\Debug\NCShop.Data.pdb
 D:\C#\NCShop\NCShop\NCShop.Data\bin\Debug\NCShop.Model.dll
 D:\C#\NCShop\NCShop\NCShop.Data\bin\Debug\NCShop.Model.pdb
 D:\C#\NCShop\NCShop\NCShop.Data\bin\Debug\NCShop.Model.dll.config
+D:\C#\NCShop\NCShop\NCShop.Data\obj\Debug\NCShop.Data.Migrations.InitDB2.resources
+D:\C#\NCShop\NCShop\NCShop.Data\obj\Debug\NCShop.Data.csproj.GenerateResource.cache

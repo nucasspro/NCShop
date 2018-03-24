@@ -10,19 +10,19 @@ namespace NCShop.Model.Models
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int ID { get; set; }
+        public int ID { set; get; }
 
         [Required]
         [MaxLength(256)]
-        public string CustomerName { get; set; }
+        public string CustomerName { set; get; }
 
         [Required]
         [MaxLength(256)]
-        public string CustomerAddress { get; set; }
+        public string CustomerAddress { set; get; }
 
         [Required]
         [MaxLength(256)]
-        public string CustomerEmail { get; set; }
+        public string CustomerEmail { set; get; }
 
         [Required]
         [MaxLength(50)]
@@ -40,6 +40,6 @@ namespace NCShop.Model.Models
         public string PaymentStatus { set; get; }
         public bool Status { set; get; }
 
-        public virtual IEnumerable<OrderDetail> OrdersDetail { get; set; }
+        public virtual IEnumerable<OrderDetail> OrderDetails { set; get; }
     }
 }

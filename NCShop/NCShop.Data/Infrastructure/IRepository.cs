@@ -6,17 +6,20 @@ namespace NCShop.Data.Infrastructure
 {
     public interface IRepository<T> where T : class
     {
-        //Marks an entity as new
+        // Marks an entity as new
         void Add(T entity);
 
-        //Marks an entiry as modified
+        // Marks an entity as modified
         void Update(T entity);
+
+        // Marks an entity to be removed
+        void Delete(T entity);
 
         //Delete multi records
         void DeleteMulti(Expression<Func<T, bool>> where);
 
-        //Get an entity by int id
-        T GetSingleId(int id);
+        // Get an entity by int id
+        T GetSingleById(int id);
 
         T GetSingleByCondition(Expression<Func<T, bool>> expression, string[] includes = null);
 
