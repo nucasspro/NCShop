@@ -12,3 +12,6 @@ D:\C#\NCShop\NCShop\NCShop.Data\obj\Debug\NCShop.Data.csproj.CoreCompileInputs.c
 D:\C#\NCShop\NCShop\NCShop.Data\obj\Debug\NCShop.Data.csproj.CopyComplete
 D:\C#\NCShop\NCShop\NCShop.Data\obj\Debug\NCShop.Data.dll
 D:\C#\NCShop\NCShop\NCShop.Data\obj\Debug\NCShop.Data.pdb
+D:\C#\NCShop\NCShop\NCShop.Data\bin\Debug\NCShop.Model.dll
+D:\C#\NCShop\NCShop\NCShop.Data\bin\Debug\NCShop.Model.pdb
+D:\C#\NCShop\NCShop\NCShop.Data\bin\Debug\NCShop.Model.dll.config
