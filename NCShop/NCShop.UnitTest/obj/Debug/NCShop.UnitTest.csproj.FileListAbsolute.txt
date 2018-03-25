@@ -11,6 +11,7 @@ D:\C#\NCShop\NCShop\NCShop.UnitTest\bin\Debug\NCShop.Data.dll
 D:\C#\NCShop\NCShop\NCShop.UnitTest\bin\Debug\NCShop.Model.dll
 D:\C#\NCShop\NCShop\NCShop.UnitTest\bin\Debug\NCShop.Service.dll
 D:\C#\NCShop\NCShop\NCShop.UnitTest\bin\Debug\NCShop.WebApplication.dll
+D:\C#\NCShop\NCShop\NCShop.UnitTest\bin\Debug\EntityFramework.dll
 D:\C#\NCShop\NCShop\NCShop.UnitTest\bin\Debug\System.Web.Optimization.dll
 D:\C#\NCShop\NCShop\NCShop.UnitTest\bin\Debug\System.Web.Mvc.dll
 D:\C#\NCShop\NCShop\NCShop.UnitTest\bin\Debug\System.Web.Http.dll
@@ -32,6 +33,7 @@ D:\C#\NCShop\NCShop\NCShop.UnitTest\bin\Debug\NCShop.WebApplication.pdb
 D:\C#\NCShop\NCShop\NCShop.UnitTest\bin\Debug\NCShop.WebApplication.dll.config
 D:\C#\NCShop\NCShop\NCShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
 D:\C#\NCShop\NCShop\NCShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\C#\NCShop\NCShop\NCShop.UnitTest\bin\Debug\EntityFramework.xml
 D:\C#\NCShop\NCShop\NCShop.UnitTest\bin\Debug\System.Web.Optimization.xml
 D:\C#\NCShop\NCShop\NCShop.UnitTest\bin\Debug\System.Web.Mvc.xml
 D:\C#\NCShop\NCShop\NCShop.UnitTest\bin\Debug\System.Web.Http.xml

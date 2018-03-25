@@ -3,11 +3,13 @@ D:\C#\NCShop\NCShop\NCShop.Service\bin\Debug\NCShop.Service.pdb
 D:\C#\NCShop\NCShop\NCShop.Service\bin\Debug\NCShop.Common.dll
 D:\C#\NCShop\NCShop\NCShop.Service\bin\Debug\NCShop.Data.dll
 D:\C#\NCShop\NCShop\NCShop.Service\bin\Debug\NCShop.Model.dll
+D:\C#\NCShop\NCShop\NCShop.Service\bin\Debug\EntityFramework.dll
 D:\C#\NCShop\NCShop\NCShop.Service\bin\Debug\NCShop.Common.pdb
 D:\C#\NCShop\NCShop\NCShop.Service\bin\Debug\NCShop.Data.pdb
 D:\C#\NCShop\NCShop\NCShop.Service\bin\Debug\NCShop.Data.dll.config
 D:\C#\NCShop\NCShop\NCShop.Service\bin\Debug\NCShop.Model.pdb
 D:\C#\NCShop\NCShop\NCShop.Service\bin\Debug\NCShop.Model.dll.config
+D:\C#\NCShop\NCShop\NCShop.Service\bin\Debug\EntityFramework.xml
 D:\C#\NCShop\NCShop\NCShop.Service\obj\Debug\NCShop.Service.csprojResolveAssemblyReference.cache
 D:\C#\NCShop\NCShop\NCShop.Service\obj\Debug\NCShop.Service.csproj.CoreCompileInputs.cache
 D:\C#\NCShop\NCShop\NCShop.Service\obj\Debug\NCShop.Service.csproj.CopyComplete
