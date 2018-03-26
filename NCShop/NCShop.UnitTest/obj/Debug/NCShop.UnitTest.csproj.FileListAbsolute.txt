@@ -49,3 +49,15 @@ D:\C#\NCShop\NCShop\NCShop.UnitTest\obj\Debug\NCShop.UnitTest.csproj.CoreCompile
 D:\C#\NCShop\NCShop\NCShop.UnitTest\obj\Debug\NCShop.UnitTest.csproj.CopyComplete
 D:\C#\NCShop\NCShop\NCShop.UnitTest\obj\Debug\NCShop.UnitTest.dll
 D:\C#\NCShop\NCShop\NCShop.UnitTest\obj\Debug\NCShop.UnitTest.pdb
+D:\C#\NCShop\NCShop\NCShop.UnitTest\bin\Debug\NCShop.UnitTest.dll.config
+D:\C#\NCShop\NCShop\NCShop.UnitTest\bin\Debug\Castle.Core.dll
+D:\C#\NCShop\NCShop\NCShop.UnitTest\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\NCShop\NCShop\NCShop.UnitTest\bin\Debug\Moq.dll
+D:\C#\NCShop\NCShop\NCShop.UnitTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\C#\NCShop\NCShop\NCShop.UnitTest\bin\Debug\System.ValueTuple.dll
+D:\C#\NCShop\NCShop\NCShop.UnitTest\bin\Debug\Castle.Core.xml
+D:\C#\NCShop\NCShop\NCShop.UnitTest\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\NCShop\NCShop\NCShop.UnitTest\bin\Debug\Moq.pdb
+D:\C#\NCShop\NCShop\NCShop.UnitTest\bin\Debug\Moq.xml
+D:\C#\NCShop\NCShop\NCShop.UnitTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\C#\NCShop\NCShop\NCShop.UnitTest\bin\Debug\System.ValueTuple.xml
