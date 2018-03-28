@@ -109,3 +109,14 @@ D:\C#\NCShop\NCShop\NCShop.WebApplication\obj\Debug\NCShop.WebApplication.csproj
 D:\C#\NCShop\NCShop\NCShop.WebApplication\obj\Debug\NCShop.WebApplication.csproj.CopyComplete
 D:\C#\NCShop\NCShop\NCShop.WebApplication\obj\Debug\NCShop.WebApplication.dll
 D:\C#\NCShop\NCShop\NCShop.WebApplication\obj\Debug\NCShop.WebApplication.pdb
+D:\C#\NCShop\NCShop\NCShop.WebApplication\bin\Autofac.dll
+D:\C#\NCShop\NCShop\NCShop.WebApplication\bin\Autofac.Integration.Mvc.dll
+D:\C#\NCShop\NCShop\NCShop.WebApplication\bin\Autofac.Integration.WebApi.dll
+D:\C#\NCShop\NCShop\NCShop.WebApplication\bin\Microsoft.Owin.dll
+D:\C#\NCShop\NCShop\NCShop.WebApplication\bin\Owin.dll
+D:\C#\NCShop\NCShop\NCShop.WebApplication\bin\Autofac.xml
+D:\C#\NCShop\NCShop\NCShop.WebApplication\bin\Autofac.Integration.Mvc.xml
+D:\C#\NCShop\NCShop\NCShop.WebApplication\bin\Autofac.Integration.WebApi.xml
+D:\C#\NCShop\NCShop\NCShop.WebApplication\bin\Microsoft.Owin.xml
+D:\C#\NCShop\NCShop\NCShop.WebApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\C#\NCShop\NCShop\NCShop.WebApplication\bin\Microsoft.Owin.Host.SystemWeb.xml

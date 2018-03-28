@@ -43,18 +43,11 @@ namespace NCShop.WebApplication.Api
             return CreateHttpResponse(requestMessage,
                 () =>
                 {
-                    HttpResponseMessage responseMessage = null;
-                    if (ModelState.IsValid)
-                    {
-                        requestMessage.CreateErrorResponse(HttpStatusCode.BadGateway, ModelState);
-                    }
-                    else
-                    {
-                        var listCategory = _postCategoryService.GetAll();
-                        _postCategoryService.Save();
-                        responseMessage = requestMessage.CreateResponse(HttpStatusCode.OK);
-                    }
-                    return responseMessage;
+                    var listCategory = _postCategoryService.GetAll();
+
+                    HttpResponseMessage response = requestMessage.CreateResponse(HttpStatusCode.OK, listCategory);
+
+                    return response;
                 });
         }
 
